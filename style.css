@@ -51,3 +51,8 @@ section{
     padding: 5px;
     margin-bottom: 100px;
 }
+
+.mainimage{
+    height: 200px;
+    width: 200px;
+}
